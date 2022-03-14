@@ -71,7 +71,7 @@ function App() {
               <div className="infoBar-item"><h4><b>Price</b></h4> <br/> 0.04 ETH</div>
               <div className="infoBar-item"><h4><b>Max</b></h4> <br/> 5 per Wallet</div>
             </div>
-                  <h3>LIMITED SALE</h3>
+                  <h3>WHITE LIST PRICE</h3>
                 </div>
                 <div className="tab-item">
                   <div className="tab-item-product">
