@@ -67,7 +67,7 @@ function App() {
             <h3>Limited Mint Date</h3>
             <h3>March 16 - 11am EST</h3>
             <div className="infoBar">
-              <div className="infoBar-item"><h4><b>Supply</b></h4> <br/> 777</div>
+              <div className="infoBar-item"><h4><b>Supply</b></h4> <br/> 7777</div>
               <div className="infoBar-item"><h4><b>Price</b></h4> <br/> 0.04 ETH</div>
               <div className="infoBar-item"><h4><b>Max</b></h4> <br/> 5 per Wallet</div>
             </div>
