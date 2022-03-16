@@ -65,7 +65,7 @@ function App() {
                 <div className="tab-item">
                 <div className="walletG">
             <h3>Limited Mint Date</h3>
-            <h3>March 16 - 11am EST</h3>
+            <h3>March 17 - 11am EST</h3>
             <div className="infoBar">
               <div className="infoBar-item"><h4><b>Supply</b></h4> <br/> 7777</div>
               <div className="infoBar-item"><h4><b>Price</b></h4> <br/> 0.04 ETH</div>
@@ -90,7 +90,7 @@ function App() {
             </div>
           </div>
         </div>
-        <div className="infoBar-item"><h4><b>1523/7777</b></h4> </div> 
+        <div className="infoBar-item"><h4><b>3672/7777</b></h4> </div> 
       </div>
     </div>
   );
